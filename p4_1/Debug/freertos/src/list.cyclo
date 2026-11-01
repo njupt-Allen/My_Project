@@ -1,5 +1,0 @@
-../freertos/src/list.c:49:6:vListInitialise	1
-../freertos/src/list.c:89:6:vListInitialiseItem	1
-../freertos/src/list.c:105:6:vListInsertEnd	1
-../freertos/src/list.c:139:6:vListInsert	3
-../freertos/src/list.c:215:13:uxListRemove	2

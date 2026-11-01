@@ -1,5 +1,0 @@
-../User/Task/lcd_task.c:17:6:LCDTask_Init	24	static
-../User/Task/lcd_task.c:39:13:BacklightControl	16	static
-../User/Task/lcd_task.c:57:13:Reset	8	static
-../User/Task/lcd_task.c:69:13:SendCommand	16	static
-../User/Task/lcd_task.c:84:13:SendData	16	static

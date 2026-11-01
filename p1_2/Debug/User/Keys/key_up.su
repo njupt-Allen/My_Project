@@ -1,3 +1,0 @@
-../User/Keys/key_up.c:14:13:keyup_ClickedCallback	8	static
-../User/Keys/key_up.c:20:6:Keyup_Init	8	static
-../User/Keys/key_up.c:28:6:Keyup_Scan	8	static

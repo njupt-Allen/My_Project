@@ -1,5 +1,0 @@
-../User/Task/lcd_task.c:17:6:LCDTask_Init	1
-../User/Task/lcd_task.c:62:13:BacklightControl	2
-../User/Task/lcd_task.c:80:13:Reset	1
-../User/Task/lcd_task.c:92:13:SendCommand	1
-../User/Task/lcd_task.c:107:13:SendData	1

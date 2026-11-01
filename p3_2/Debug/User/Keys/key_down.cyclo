@@ -1,3 +1,0 @@
-../User/Keys/key_down.c:15:13:keydown_ClickedCallback	1
-../User/Keys/key_down.c:22:6:Keydown_Init	1
-../User/Keys/key_down.c:30:6:Keydown_Scan	1

@@ -1,0 +1,3 @@
+../User/Keys/key4.c:15:13:key4_ClickedCallback	8	static
+../User/Keys/key4.c:21:6:Key4_Init	8	static
+../User/Keys/key4.c:29:6:Key4_Scan	8	static

@@ -1,0 +1,3 @@
+../User/Keys/key_up.c:15:13:keyup_ClickedCallback	1
+../User/Keys/key_up.c:22:6:Keyup_Init	1
+../User/Keys/key_up.c:30:6:Keyup_Scan	1

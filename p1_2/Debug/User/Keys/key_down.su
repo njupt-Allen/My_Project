@@ -1,0 +1,3 @@
+../User/Keys/key_down.c:14:13:keydown_ClickedCallback	8	static
+../User/Keys/key_down.c:20:6:Keydown_Init	8	static
+../User/Keys/key_down.c:28:6:Keydown_Scan	8	static

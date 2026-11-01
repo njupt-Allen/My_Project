@@ -1,0 +1,3 @@
+../User/Task/lcd_task.c:12:6:LCDTask_Init	1
+../User/Task/lcd_task.c:21:13:BacklightControl	2
+../User/Task/lcd_task.c:34:13:Reset	1
